@@ -21,7 +21,7 @@ from collections import OrderedDict
 
 ###############################
 
-from eliminate_redundencies3 import veg_aminos_dict2
+from eliminate_redundancies3 import veg_aminos_dict2
 from food_item_list import Foodlist
 
 
